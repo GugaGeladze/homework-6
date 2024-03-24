@@ -41,3 +41,55 @@ ul {
     color: #758BFD;
 
 }
+
+/* Section  */
+
+.section_1 {
+    width: 1440px;
+    height: 1051px;
+    top: 160px;
+    padding: 94px 98px 135px 98px;
+    gap: 0px;
+    opacity: 0px;
+    background-color: #DDEAF8;
+    ;
+}
+
+.section_title {
+    font-family: Ubuntu;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 36.77px;
+    text-align: left;
+    color: #27187F;
+
+}
+
+.section_article {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+/* Footer  */
+
+footer {
+    width: 1440px;
+    height: 239px;
+    top: 1212px;
+    gap: 0px;
+    opacity: 0px;
+background-color: #758BFD;
+padding: 75px 1228px 105px 98px;
+
+}
+
+.footer_title{
+    font-family: Century Gothic;
+font-size: 20px;
+font-weight: 400;
+line-height: 17px;
+letter-spacing: 0.20000000298023224px;
+text-align: left;
+color: #FFFFFF;
+
+}
