@@ -1,0 +1,43 @@
+/* Header  */
+
+.container {
+    width: min(100%, 1440px);
+    margin: auto;
+}
+
+header {
+    padding: 52px 98px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.search {
+    border: #758BFD;
+    border-color: #758BFD;
+
+}
+
+ul {
+    display: flex;
+    column-gap: 50px;
+}
+
+.active {
+    font-family: Ubuntu;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 27.58px;
+    text-align: left;
+    color: #27187F;
+}
+
+.no_active {
+    font-family: Ubuntu;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 27.58px;
+    text-align: left;
+    color: #758BFD;
+
+}
