@@ -78,18 +78,59 @@ footer {
     top: 1212px;
     gap: 0px;
     opacity: 0px;
-background-color: #758BFD;
-padding: 75px 1228px 105px 98px;
+    background-color: #758BFD;
+    padding: 75px 1228px 105px 98px;
+    justify-content: space-between;
+
 
 }
 
-.footer_title{
+.footer_title {
     font-family: Century Gothic;
-font-size: 20px;
-font-weight: 400;
-line-height: 17px;
-letter-spacing: 0.20000000298023224px;
-text-align: left;
-color: #FFFFFF;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 17px;
+    letter-spacing: 0.20000000298023224px;
+    text-align: left;
+    color: #FFFFFF;
+
+}
+
+.fa-facebook-f {
+    width: 22px;
+    height: 22px;
+    top: 37px;
+    gap: 0px;
+    opacity: 0px;
+    color: #FFFFFF;
+}
+
+.fa-linkedin-in {
+    width: 22px;
+    height: 22px;
+    top: 37px;
+    left: 46px;
+    gap: 0px;
+    opacity: 0px;
+    color: #FFFFFF;
+
+}
+
+.fa-instagram {
+    width: 11.31px;
+    height: 11.3px;
+    top: 42.35px;
+    left: 97.35px;
+    gap: 0px;
+    opacity: 0px;
+    color: #FFFFFF;
+
+}
+
+.footer_div {
+    display: flex;
+    column-gap: 50px;
+    justify-content: space-between;
+
 
 }
